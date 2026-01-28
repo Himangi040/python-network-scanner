@@ -1,0 +1,6 @@
+Scan results for 127.0.0.1
+Port 21 is CLOSED
+Port 22 is OPEN
+Port 23 is CLOSED
+Port 80 is OPEN
+Port 443 is OPEN
